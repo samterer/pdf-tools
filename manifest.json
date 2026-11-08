@@ -1,0 +1,185 @@
+{
+ "version": 1,
+ "fonts": {
+  "text/AbrilFatface-Regular.ttf": {
+   "size": 67364,
+   "sha256": "5971d4a3758a922a9fedc7f6fb825a96341a2e718c45a4b2c9a6b417c8c4dbe9"
+  },
+  "text/BebasNeue-Regular.ttf": {
+   "size": 61400,
+   "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73"
+  },
+  "text/BlackHanSans-Regular.ttf": {
+   "size": 998424,
+   "sha256": "31960809284026681774a8e52dc19ebcad26cf69b0ad9d560f288296fbb52739"
+  },
+  "text/CourierPrime-Bold.ttf": {
+   "size": 72856,
+   "sha256": "ff1f38786c849d1c41fa8e447960abdb2bd75fdfb0cfcdeb524fad65a5af3638"
+  },
+  "text/CourierPrime-Regular.ttf": {
+   "size": 71188,
+   "sha256": "72f793376f8e2841656bf21d77a5de010f2929bd6956a22ee848ad0c7eb978af"
+  },
+  "text/CuteFont-Regular.ttf": {
+   "size": 1027936,
+   "sha256": "c403227fe6288a8c1423ca48e93fd7efc81e3b81053f7d17adcf659bd95fa4c3"
+  },
+  "text/DoHyeon-Regular.ttf": {
+   "size": 879764,
+   "sha256": "35644be7f28e0a68a447b1f7af351dcde5674b870f24f7b5f43e26d00b4ab653"
+  },
+  "text/Dokdo-Regular.ttf": {
+   "size": 2150860,
+   "sha256": "5b3a3d8d28af31fa9adec3fc5da81a88b52e1ff39ed3930c1db787aa4e79c36d"
+  },
+  "text/EastSeaDokdo-Regular.ttf": {
+   "size": 3178684,
+   "sha256": "8cebb39d375134fdbcedef9bf4ec4f6c3f02c39ed0aacd6e83f7a0f435e593b2"
+  },
+  "text/GothicA1-Bold.ttf": {
+   "size": 2287068,
+   "sha256": "2e883fa0ae548000996258b4101f2bb732a28b197264f49621a2cb16d6e9f126"
+  },
+  "text/GothicA1-Regular.ttf": {
+   "size": 2295400,
+   "sha256": "211151bea98098c579610ab1114bb1bfe909057207db561f357b896d076c21ac"
+  },
+  "text/Gugi-Regular.ttf": {
+   "size": 990856,
+   "sha256": "c0b1f979979cfc309fb2438fa9464f96173353e0c4842cc7a5919658184ed9d3"
+  },
+  "text/Hahmlet.ttf": {
+   "size": 3559144,
+   "sha256": "892bffe530255770a7435226154a02f519055ff6bedf64254f37f21d15a59279"
+  },
+  "text/IBMPlexSansKR-Bold.ttf": {
+   "size": 2875584,
+   "sha256": "9d82a8be5330f6d7b53121262867b402baca672eb69b852928f06d185d357f7d"
+  },
+  "text/IBMPlexSansKR-Regular.ttf": {
+   "size": 2797100,
+   "sha256": "53750379270312368cf7641901f43a98dd892e3d9d5798cf25cdc245c85c71c0"
+  },
+  "text/IndieFlower-Regular.ttf": {
+   "size": 108196,
+   "sha256": "ccc94b22b156e9c5dfe50fd051f01b097600b252c24473e624bb43a143140a94"
+  },
+  "text/Jua-Regular.ttf": {
+   "size": 2119352,
+   "sha256": "769677aef240bfc3b9965f2b50748075bff885e6c6992fc591a3fb268279f898"
+  },
+  "text/Lato-Bold.ttf": {
+   "size": 656544,
+   "sha256": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1"
+  },
+  "text/Lato-Regular.ttf": {
+   "size": 656568,
+   "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251"
+  },
+  "text/Lobster-Regular.ttf": {
+   "size": 406076,
+   "sha256": "d6568e697fd50cedc0be04d8aae4127fe95add607e7bff954ca88604be80c205"
+  },
+  "text/Lora.ttf": {
+   "size": 212196,
+   "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7"
+  },
+  "text/Montserrat.ttf": {
+   "size": 744936,
+   "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
+  },
+  "text/NanumGothic-Bold.ttf": {
+   "size": 2073868,
+   "sha256": "f96298f9fb18e364d2370f4c3ce948ac67a2b61af992d7234bc15c42b033c674"
+  },
+  "text/NanumGothic-Regular.ttf": {
+   "size": 2054744,
+   "sha256": "76f45ef4a6bcff344c837c95a7dcc26e017e38b5846d5ae0cdcb5b86be2e2d31"
+  },
+  "text/NanumGothicCoding-Bold.ttf": {
+   "size": 2246240,
+   "sha256": "77a6de97c176b76ef9a683b565a1e6f4ce40b499c72a2972c4b5bdf7c6b8e7a0"
+  },
+  "text/NanumGothicCoding-Regular.ttf": {
+   "size": 2315924,
+   "sha256": "787effd7efed2abca88ade231faa8191f4e9fcf85b1805a13ee1dc3724b72089"
+  },
+  "text/NanumMyeongjo-Bold.ttf": {
+   "size": 3074720,
+   "sha256": "bc9ed8e60d93fe6db054b8fb988481b625f2eef8cb2317ad0e9834681b8fe3f3"
+  },
+  "text/NanumMyeongjo-Regular.ttf": {
+   "size": 3058408,
+   "sha256": "7ed9e8653a8ed04285d51dc343ffea6eb3d9c73afc27383ea8929ee4ffd03205"
+  },
+  "text/OpenSans.ttf": {
+   "size": 532636,
+   "sha256": "36643644f318a812aab2d2ed3bb98f8cf0872527f835fe9398d95fe6b9adb878"
+  },
+  "text/Orbit-Regular.ttf": {
+   "size": 784480,
+   "sha256": "5d0206fb0a9e3eeac51aff8d4a6dbb7613d63fc435f1a51f96dc35cefb5f9f87"
+  },
+  "text/Oswald.ttf": {
+   "size": 172088,
+   "sha256": "5b38c246e255a12f5712d640d56bcced0472466fc68983d2d0410ec0457c2817"
+  },
+  "text/Pacifico-Regular.ttf": {
+   "size": 329380,
+   "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701"
+  },
+  "text/PlayfairDisplay.ttf": {
+   "size": 300724,
+   "sha256": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6"
+  },
+  "text/PoorStory-Regular.ttf": {
+   "size": 3966768,
+   "sha256": "831ab87f7b5463f9cd83ac249bf386816f3a478f1d226427c88cac907adb7ee2"
+  },
+  "text/Roboto.ttf": {
+   "size": 488584,
+   "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134"
+  },
+  "text/ShadowsIntoLight.ttf": {
+   "size": 54304,
+   "sha256": "1347863151acdc00fa281daaba1a3543dbce5870b55f9cf7479a15bb84007681"
+  },
+  "text/SingleDay-Regular.ttf": {
+   "size": 816524,
+   "sha256": "716ff67a4b0675b35c26d60a4bb83173f7d153ab754474ed36c3369593ca1ca8"
+  },
+  "text/SongMyung-Regular.ttf": {
+   "size": 2035300,
+   "sha256": "7f90ab20250911560212cc5819c7b205f9c6644bb96b65095d89fcae096bbf58"
+  },
+  "text/SourceCodePro.ttf": {
+   "size": 212340,
+   "sha256": "b400fc584e10aff25d0e775ce181b4fc1c5ea1b5dc37b81aeb2084375b945790"
+  },
+  "text/Sunflower-Bold.ttf": {
+   "size": 746300,
+   "sha256": "6b033627817f6619433afe82028013dc45a78ff82406b1dbe5b16e1bbc370e0a"
+  },
+  "text/Sunflower-Medium.ttf": {
+   "size": 770536,
+   "sha256": "6e216d6b2f77a850f6b73be25633d09e03385dfa63a3a632f9e7d83a90ea7f79"
+  },
+  "text/YeonSung-Regular.ttf": {
+   "size": 2511004,
+   "sha256": "49ac2a11009f5f58307d377911eb45d210cf4c1d379d9eca38fb4cdad5491ef6"
+  },
+  "sig/Gaegu-Regular.ttf": {
+   "size": 3165816,
+   "sha256": "aa52c98336f7c62e2896fc8b12b56a75d5b476d88a2f104b0980f4f7ce0adfc3"
+  },
+  "sig/NanumBrushScript-Regular.ttf": {
+   "size": 3564804,
+   "sha256": "27ceaf578c96f594cdf07fe0181b251790acbb746a164e45c1f6473f89911a31"
+  },
+  "sig/NanumPenScript-Regular.ttf": {
+   "size": 3201664,
+   "sha256": "6f0d1ab29c7894010dc88831fb7a0a51edb79136e450344183de5b1a8b52bd43"
+  }
+ }
+}
